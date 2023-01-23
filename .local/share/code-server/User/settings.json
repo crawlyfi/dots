@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.fontFamily": "Dejavu Sans Mono, PowerlineSymbols",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "terminal.integrated.gpuAcceleration": "on",
+    "terminal.integrated.shellIntegration.decorationsEnabled": "never",
+    "editor.minimap.enabled": false
+}
